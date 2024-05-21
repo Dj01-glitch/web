@@ -7,6 +7,6 @@ function addCertificate(src) {
 }
 
 // Example usage - replace with actual paths to your certificate images
-addCertificate('"C:\Users\durjo\Desktop\Riyanka Mar Certificates\CertificateOfCompletion_Mindstuck Mastering the Art of Changing Minds.pdf.pdf"');
+addCertificate('"C:\Users\durjo\Desktop\Riyanka Mar Certificates\CertificateOfCompletion_Mindstuck Mastering the Art of Changing Minds.pdf.jpg"');
 addCertificate('C:\Users\durjo\Desktop\Riyanka Mar Certificates\CertificateOfCompletion_Managing Stress.pdf');
 // Add more certificates as needed
